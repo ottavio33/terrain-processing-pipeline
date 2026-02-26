@@ -1,2 +1,8 @@
 # terrain-processing-pipeline
-PyQGIS scripts and workflow automation for GIS data processing and terrain export.
+Testing automated geospatial data pipelines for preparing terrain datasets for Unreal Engine. 
+Includes;
+- DEM preprocessing
+- CRS conversion
+- Raster normalization
+- Heightmap export
+- Work in progress to learn and refine high-resolution terrain workflows.
